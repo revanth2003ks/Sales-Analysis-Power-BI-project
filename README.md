@@ -1,5 +1,6 @@
 # Sales-Analysis-Power-BI-project
-<img width="1300" height="731" alt="Screenshot 2025-09-06 141035" src="https://github.com/user-attachments/assets/09cfd8f0-bdf0-4c13-8a98-71cd8945e19f" />
+<img width="1299" height="742" alt="Screenshot 2025-09-06 142320" src="https://github.com/user-attachments/assets/7282bf35-0edf-47f8-ba54-c3c2a74af9d6" />
+
 
 ---
 
